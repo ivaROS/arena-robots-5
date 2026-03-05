@@ -15,7 +15,7 @@ polygons_dict:
     type: "polygon"
     points: [0.3, 0.3, 0.3, -0.3, -0.3, -0.3, -0.3, 0.3]
     action_type: "stop"
-    min_points: 4
+    max_points: 4
     visualize: True
     polygon_pub_topic: "polygon_stop"
     enabled: True
@@ -24,7 +24,7 @@ polygons_dict:
     radius: 1.0
     action_type: "slowdown"
     slowdown_ratio: 0.5
-    min_points: 4
+    max_points: 4
     visualize: True
     polygon_pub_topic: "polygon_slow"
     enabled: True
