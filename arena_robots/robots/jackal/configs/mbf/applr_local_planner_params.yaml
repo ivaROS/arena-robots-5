@@ -28,5 +28,5 @@ TrajectoryPlannerROS:
   simple_attractor: false
   vtheta_samples: 20
   vx_samples: 6
-  xy_goal_tolerance: 0.25
+  xy_goal_tolerance: 0.4
   yaw_goal_tolerance: 0.157

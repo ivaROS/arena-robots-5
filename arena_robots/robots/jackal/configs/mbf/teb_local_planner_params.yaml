@@ -9,5 +9,5 @@ TebLocalPlannerROS:
   max_vel_x_backwards: 0.5
   max_vel_y: 0.0
   min_turning_radius: 0.0
-  xy_goal_tolerance: 0.25
+  xy_goal_tolerance: 0.4
   yaw_goal_tolerance: 0.17
